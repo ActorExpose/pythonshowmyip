@@ -1,5 +1,3 @@
-# pythonshowmyip
-
 # Python Show My IP 
 
 
